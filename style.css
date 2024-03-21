@@ -1,3 +1,45 @@
-.body{
-    background-color: blueviolet;
+body{
+    background-color: rgb(76, 43, 226);
+    font: normal 16px arial, verdana, serif;
 }
+
+.center{
+    text-align: center;
+}
+
+h2,h3{
+    color: aliceblue;
+}
+
+.h2{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.h3{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.div {
+    text-align: center;
+    right: 50px;
+    width: 1630px;
+    height: 40px;
+    background-color: rgb(217, 255, 0);
+}
+
+link{
+    width: 65px;
+    height: 20px;
+    
+    background-color: rgb(217, 255, 0);
+}
+
+a:link {
+    color: rgb(217, 255, 0);
+   }
+   
+   a:hover {
+    color: rgb(160, 189, 0);
+   }
