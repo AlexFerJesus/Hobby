@@ -44,36 +44,35 @@ h4 {
 }
 
 #caixinha {
-    width: 350px;
-    height: 350px;
+    width: 450px;
+    height: 400px;
     border-radius: 3%;
     background-color: rgb(62, 99, 186);
     justify-content:center;
     position:static;
-    margin-left: px;
+    margin-left: 10px;
 }
 
 #caixinha2 {
-    width: 350px;
-    height: 350px;
+    width: 450px;
+    height: 400px;
     border-radius: 3%;
     background: rgb(16, 28, 40);
     justify-content:center;
     position: absolute;
-    margin-left: 520px;
+    margin-left: 690px;
 }
 
 
 #caixinha3 {
-    width: 350px;
-    height: 350px;
+    width: 450px;
+    height: 400px;
     border-radius: 3%;
     background: rgb(54, 29, 17); 
     justify-content:center;
     position: absolute;
-    margin-left: 1045px;
+    margin-left: 1360px;
 }
-
 
 .M {
     border-width: 15%;
