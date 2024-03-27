@@ -61,6 +61,7 @@ h4 {
     justify-content:center;
     position: absolute;
     margin-left: 690px;
+    image-rendering: auto;
 }
 
 
@@ -72,6 +73,7 @@ h4 {
     justify-content:center;
     position: absolute;
     margin-left: 1360px;
+    image-rendering: auto;
 }
 
 .M {
